@@ -2,7 +2,7 @@
   "name": "glass-calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "github.page/",
+  "homepage": "./src/pages",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
