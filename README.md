@@ -27,10 +27,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd GlassCalculator
+git clone https://github.com/CauetPinciara/GlassCalculator
 
 # instalar dependências
 yarn add
